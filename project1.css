@@ -1,0 +1,195 @@
+
+
+h1 {
+  font-size: 15px;
+  word-spacing: .25em
+}
+
+a:link {
+  color: grey;
+
+}
+a:visited {
+    color: grey;
+}
+a:hover {
+  color: grey;
+  text-decoration: none;
+}
+
+b:link {
+  color: black;
+
+}
+b:visited {
+    color: black;
+}
+b:hover {
+  color: grey;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 19px;
+  word-spacing: .13em;
+  padding-left: 75px;
+}
+
+h5{ font-size: 21px;
+word-spacing: .13em
+}
+
+h3 {
+display:inline;
+padding left:100px;
+font-size: 16px;
+
+}
+h4 {
+display:inline;
+padding left: 650px;
+font-size: 16px;
+}
+
+h6{
+display:inline;
+padding left: 950px;
+font-size: 16px;
+}
+
+
+
+
+button {
+  color: white;
+  background-color: black;
+  display: block;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 15px 68px;
+  font-size: 15px;
+
+}
+button:hover {
+  color: grey;
+
+}
+
+
+.cow {
+  background-color: White;
+  color:blue;
+  padding: 15px 120px;
+  font-size: 15px;
+  display: block;
+  border-radius: 8px;
+  border-color: black;
+}
+
+
+
+
+
+
+.a:hover {
+  color: grey;
+  text-decoration: none;
+}
+
+
+.b:hover {
+
+  color: grey;
+  text-decoration: none;
+}
+
+
+.c:hover {
+
+  color: grey;
+  text-decoration: none;
+}
+
+
+
+.d:hover {
+  color: grey;
+  text-decoration: none;
+}
+
+
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 16% 40% 19%;
+}
+
+.one {
+  grid-row-start: 1;
+  grid-row-end: 1;
+}
+
+.two {
+
+  grid-row-start: 2;
+  grid-row-end: 2;
+}
+
+
+.img-container {
+  display: block;
+  grid-column-start: 1;
+  grid-column-end: 1;
+  width: 20%;
+  padding-left: 60px;
+  margin-bottom: 100px;
+}
+
+.three{
+  grid-column-start:2;
+  grid-column-end:4;
+margin-top: 30px;
+  line-height: 1.6;
+
+
+}
+
+body{
+  margin-top:20px;
+}
+
+.four{
+  grid-column-start: 4;
+  grid-column-end: 5;
+  line-height: 1.9;
+}
+
+.meatballs{
+  padding-left:290px;
+  word-spacing: 3.5em;
+}
+
+.chicken{
+  padding-left:140px;
+}
+
+.pasta{
+  padding-left:152px;
+  word-spacing: 3.5em;
+}
+
+.bake {
+  padding-left: 145px;
+}
+
+.pizza {
+  padding-left: 240px;
+  word-spacing: 3.5em;
+}
+
+.chips{
+  padding-left:145px;
+}
